@@ -6,4 +6,4 @@ En leur déléguant l'hébergement de votre site, vous assurez une très haute d
 N'hésitez pas à en profiter si vous voulez tester un hébergement de site web.
 
 Vous pourrez également attacher un DNS (Domain Name System) à ce site web si vous souhaitez le mettre à disposition de vos utilisateurs.
-Si cette étape de configuration vous intéresses, n'hésitez pas à me le faire savoir dans les commentaires, je peux vous faire une vidéo sur le sujet !
+
