@@ -7,3 +7,10 @@ N'hésitez pas à en profiter si vous voulez tester un hébergement de site web.
 
 Vous pourrez également attacher un DNS (Domain Name System) à ce site web si vous souhaitez le mettre à disposition de vos utilisateurs.
 
+Les étapes àfaire : 
+
+ - Création d'un Bucket S3 (Compartiment)
+ - Configuration du Bucket en Hébergeur de Site Web Statique
+ - Upload des fichiers du Site Web
+ - Configuration des Accès (S3 Policy)
+
