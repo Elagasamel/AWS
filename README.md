@@ -13,4 +13,5 @@ Les étapes àfaire :
  - Configuration du Bucket en Hébergeur de Site Web Statique
  - Upload des fichiers du Site Web
  - Configuration des Accès (S3 Policy)
-
+  
+https://www.youtube.com/watch?v=C9ynJzl9XPo
