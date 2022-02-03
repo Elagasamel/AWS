@@ -27,4 +27,5 @@ Problématiques qui mèneront à la création du cloud Amazon Web Services (AWS)
 AWS est aujourd'hui leader dans son domaine, talonné par des concurrents de taille comme Microsoft Azure, Google Cloud, IBM Cloud ou encore Alibaba Cloud.
 Cette business unit d'Amazon génère à elle seule plus de 40 milliards de dollars, avec une très grosse rentabilité et une évolution annuelle moyenne de plus de  30%.
 
+
 https://www.youtube.com/watch?v=C9ynJzl9XPo
