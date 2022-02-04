@@ -27,5 +27,25 @@ Problématiques qui mèneront à la création du cloud Amazon Web Services (AWS)
 AWS est aujourd'hui leader dans son domaine, talonné par des concurrents de taille comme Microsoft Azure, Google Cloud, IBM Cloud ou encore Alibaba Cloud.
 Cette business unit d'Amazon génère à elle seule plus de 40 milliards de dollars, avec une très grosse rentabilité et une évolution annuelle moyenne de plus de  30%.
 
+Qu'est-ce que le Serverless ? (ou Architecture Sans Serveur)
+Comment fonctionne le Serverless ?
+Supprime-t-il la notion de "serveur informatique" ? 
+
+Spoiler: on parlera des fonctions Lambda sur le Cloud d'AWS.
+
+Une entreprise cherche continuellement à optimiser et réduire les coûts de son infrastructure, notamment en réduisant les coûts opérationnels.
+
+Après avoir délégué l'hébergement de ses serveurs physiques à un hébergeur distant (sur le Cloud par exemple),  elle doit tout de même assurer le déploiement, la configuration et la maintenance de ces serveurs. 
+
+Dans cette introduction au serverless on va donc découvrir le concept de... Serverless ! 🤓
+
+Pourquoi est-il appelé ainsi ? (Serverless, Sans Serveur)
+Tout simplement car il s'agit de déléguer, encore une fois, la charge de travail opérationnelle liée à la gestion des serveurs.
+
+Pour faire simple: avec le Serverless, les développeurs n'ont plus qu'à "donner" leur code pour qu'il soit exécuté. Toutes les notions de résilience, haute disponibilité, tolérance à la faute, etc... ne sont plus qu'un lointain souvenir: ce sont les Cloud Providers qui se chargent de tout ! (pratique)
+
+Le début du serverless commence à partir du moment où vous cherchez à vous affranchir de la partie gestion de serveurs informatiques (installation, configuration, etc...)
+
+Bien entendu, ce n'est pas aussi simple que ça en a l'air (dans les lignes ci-dessus), il y a forcément un peu de configuration à réaliser. Cependant, ça reste beaucoup plus facile et largement moins chronophage que de la configuration de serveur "à l'ancienne".
 
 https://www.youtube.com/watch?v=C9ynJzl9XPo
